@@ -1,0 +1,78 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url(src/images/734f5ba4e4a772658913afbcf380dea5.jpg);
+    background-size: cover;
+
+    }
+    
+
+
+    
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.foto-de-perfil {
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+     }
+    
+.nome {
+    display: flex;
+    justify-content: center;
+    color: #cfc6bd;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    color: #cfc6bd;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.intro{
+    display:flex;
+    justify-content: center;
+    color: #cfc6bd;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-top: 100px;
+    
+}
+
+.container-tree{
+    display:flex;
+    justify-content: center;
+    color: #cfc6bd;
+}
+
+.facebook{
+    display: flex;
+    margin-top: 21px;
+    margin-left: 18px;
+}
+
+.linked{
+    display: flex;
+    margin-top: 23px;
+    margin-left: 40px;
+}
